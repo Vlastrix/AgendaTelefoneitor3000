@@ -1,0 +1,8 @@
+AGENDA DE TELÉFONO
+
+Dentro del menú debe estar la opción para agregar nuevo contacto.
+Debe mostrar una vista para llenar los datos.
+Debe mostrar la vista con un panel al lado izquierdo con la lista de contactos creados
+y al seleccionar uno debe mostrar los datos.
+Debe de tener un botón para abrir whatsapp en el navegador
+Deberá importar un archivo .vcf
